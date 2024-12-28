@@ -47,10 +47,10 @@ Input:
 plaintext
 Copy code
 Welcome to our Restaurant
-pizza Rs90
+pizza Rs70
 pasta Rs50
-Burger Rs70
-salad Rs90
+Burger Rs60
+salad Rs40
 coffee Rs80
 Enter the name of item you want to order = pizza
 Your item pizza has been added to your order
